@@ -1,8 +1,10 @@
 addressbook/AddressBookException.java
  addressbook.AddressBookException
-addressbook/Contacts.java
- addressbook.Contacts
 addressbook/Validation.java
  addressbook.Validation
+addressbook/AddressBook.java
+ addressbook.AddressBook
+addressbook/Contacts.java
+ addressbook.Contacts
 addressbook/Executor.java
  addressbook.Executor
