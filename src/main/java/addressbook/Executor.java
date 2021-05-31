@@ -15,6 +15,8 @@ public class Executor {
             System.out.println("2. Open an existing Address Book");
             System.out.println("3. Search a person's city or state");
             System.out.println("4. View person's by city or state");
+            System.out.println("5. Person's count by city or state");
+            System.out.println("6. Sort entries of address book alphabetically based on person name");
             System.out.println("9. Quit");
             choice = Integer.parseInt(sc.nextLine());
             if (choice == 1) {
@@ -25,6 +27,10 @@ public class Executor {
                 multipleAddressBookObj.SearchCityOrStateByName();
             } else if (choice == 4) {
                 multipleAddressBookObj.ViewPersonByStateOrCity();
+            } else if (choice == 5) {
+                multipleAddressBookObj.CountOfPersonInStateOrCity();
+            } else if (choice == 6) {
+                multipleAddressBookObj.SortAddressBookByName();
             } else {
                 System.out.println("Thank You!");
                 break;
