@@ -25,7 +25,7 @@ public class Executor {
                 String firstName = sc.nextLine();
                 System.out.println("Enter Last Name :");
                 String lastName = sc.nextLine();
-                addressBookObj.EditContact(firstName, lastName);
+                addressBookObj.EditContact(firstName,lastName);
             } else if (choice == 3) {
                 System.out.println("Enter First Name :");
                 String firstName = sc.nextLine();
