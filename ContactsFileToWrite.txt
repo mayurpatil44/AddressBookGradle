@@ -1,0 +1,16 @@
+First Name :Mayur
+Last Name :Patil
+Address :MH
+City :Dhule
+State :MH
+Zip :123456
+Phone No :91 7620107982
+Email :mayurpatil44@hotmail.com
+First Name :Wolverine
+Last Name :Logan
+Address :pune
+City :pune
+State :mh
+Zip :452136
+Phone No :91 4785236998
+Email :abcd@gmail.com

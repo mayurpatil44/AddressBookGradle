@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="addressbook.AddressBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-31T11:12:23" hostname="DESKTOP-45808RR" time="0.062">
-  <properties/>
-  <testcase name="firstNameTest" classname="addressbook.AddressBookTest" time="0.062"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
